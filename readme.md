@@ -13,11 +13,11 @@ Note: added .env_devilbox if you use [Devilbox](http://devilbox.org/), see optio
 
 ## Usage
 
-## Optional Instructions
+### Optional Instructions
 
 If you use Devilbox, just copy and paste `.env_devilbox` to your devilbox directory and change its name to `.env` (save your own file before).
 
-## Main instructions
+### Main instructions
 
 - cd wp-content/plugins
 - git clone git@github.com:nicolasblancom/wpGutenbergBlocks.git wp-learn-subscribe
